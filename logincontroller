@@ -16,6 +16,11 @@
   "cells": [
     {
       "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "7--G0L8ryxh4"
+      },
+      "outputs": [],
       "source": [
         "(function() {\n",
         "\n",
@@ -73,12 +78,7 @@
         "    .controller('loginController', loginController);\n",
         "\n",
         "}());"
-      ],
-      "metadata": {
-        "id": "gZvPeYDYxJNg"
-      },
-      "execution_count": null,
-      "outputs": []
+      ]
     }
   ]
 }
